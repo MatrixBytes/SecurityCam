@@ -1,2 +1,2 @@
 # SecurityCam
-Python Security cam With advanced face detection and extra information on screen.
+Simple python Security cam with Face detection.
