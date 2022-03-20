@@ -1,2 +1,2 @@
 # SecurityCam
-Simple python Security cam with Face detection.
+Simple Python3 security cam with Face detection.
